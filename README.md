@@ -1,5 +1,5 @@
 # Yandex-temperature
-Yandex-temperature is Java Spring boot application, designed as REST service to show today's temperature. Service has a single endpoint `/weather`, which works up request and gets today's temperature from database if it exists, or else extract this value from web page yandex.ru.
+Yandex-temperature is Java Spring boot application, designed as REST service to show today's temperature. Service has a single endpoint `/weather`, which retrieves today's temperature from database if it exists, or else extract this value from web page yandex.ru.
 
 ## Run
 ### Prerequisites
