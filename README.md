@@ -15,14 +15,14 @@ spring.datasource.password=mysecretpassword
 spring.datasource.driver-class-name=org.postgresql.Driver
 ```
 
-###Request
+### Request
 
 This service processes GET method of HTTP request
 ```
 GET http://localhost:8080/weather
 ```
 
-###Response
+### Response
 
 ```
 {
